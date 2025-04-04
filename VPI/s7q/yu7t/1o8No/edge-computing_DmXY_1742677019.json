@@ -12,7 +12,6 @@
     "standard",
     "plugin:@typescript-eslint/eslint-recommended"
   ],
-  "rules": {
     "quotes": ["error", "single", { "avoidEscape": true }],
     "no-prototype-builtins": 0,
     "no-use-before-define": 0,
