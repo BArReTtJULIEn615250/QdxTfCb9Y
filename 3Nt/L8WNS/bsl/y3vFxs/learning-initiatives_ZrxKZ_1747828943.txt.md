@@ -46,7 +46,6 @@ You can also review and write solution / writeup to any crackmes. For this purpo
 So, happy cracking.
 
 
-Reversing.ID 
 
 Revealing the truth through reverse engineering.
 
