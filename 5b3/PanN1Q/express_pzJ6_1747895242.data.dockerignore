@@ -1,7 +1,6 @@
 npm-debug.log
 *.md
 Dockerfile
-.dockerignore
 .gitignore
 .travis.yml
 .istanbul.yml
