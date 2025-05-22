@@ -32,7 +32,6 @@ For now you can clone the repository or download the crackme manually. Next time
 
 This is an open project.
 
-You can share crackmes you have or you know if it's not in our list yet. To do it, your options are:
 
 - Do a pull request
 - Send mail to `pengurus [at] reversing.id`
