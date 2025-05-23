@@ -7,7 +7,6 @@ npm-debug.log
 
 # Build folder
 lib/
-
 # Tests
 # Keep local dependencies used to CI tests
 !spec/dependencies/
