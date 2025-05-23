@@ -47,5 +47,3 @@ So, happy cracking.
 
 
 Revealing the truth through reverse engineering.
-
-#### Mirror List
