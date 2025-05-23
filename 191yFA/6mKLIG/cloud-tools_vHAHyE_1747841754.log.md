@@ -2,7 +2,6 @@ Duplicacy is based on the following open source projects:
 
 | Projects | License |
 |--------|:-------:|
-|https://github.com/urfave/cli              |  MIT |
 |https://github.com/aryann/difflib          |  MIT |
 |https://github.com/bkaradzic/go-lz4        |  BSD-2-Clause |
 |https://github.com/Azure/azure-sdk-for-go  |  Apache-2.0 |
