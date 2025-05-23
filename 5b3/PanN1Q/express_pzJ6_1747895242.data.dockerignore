@@ -1,6 +1,5 @@
 npm-debug.log
 *.md
-Dockerfile
 .gitignore
 .istanbul.yml
 .git
