@@ -27,7 +27,6 @@ Crackme can be divided as several categories, based on characteristics or goal f
 ### How to Download?
 
 For now you can clone the repository or download the crackme manually. Next time, we will create a download system which can be accessed by a script to ease this process.
-
 ### How to Contribute?
 
 This is an open project.
